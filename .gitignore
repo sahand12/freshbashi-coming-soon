@@ -7,8 +7,8 @@ flow-typed/
 .eslintcache
 coverage/
 .nyc_output
-public/*bundle*
-public/styles/*.css
+
+
 *.map
 *.bundle.js
 _site/
