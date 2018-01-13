@@ -2,8 +2,10 @@
   "name": "freshbashi-coming-soon",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "https://github.com/sahand12/freshbashi-coming-soon.git",
+  "author": "Sahand Shokouhi <sahand.shok@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "normalize.css": "^7.0.0"
+    "express": "^4.16.2"
   }
 }

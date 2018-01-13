@@ -1,0 +1,37 @@
+Arguments: 
+  /Users/sahand/.nvm/versions/node/v8.4.0/bin/node /Users/sahand/.yarn/bin/yarn.js add express
+
+PATH: 
+  /Users/sahand/.yarn/bin:/Users/sahand/.nvm/versions/node/v8.4.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/usr/local/share/dotnet:/opt/X11/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Applications/Postgres.app/Contents/Versions/latest/bin:/Users/sahand/Library/Android/sdk/tools:/Users/sahand/Library/Android/sdk/platform-tools:/path/to/elixir/bin
+
+Yarn version: 
+  0.27.5
+
+Node version: 
+  8.4.0
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  {
+    "name": "freshbashi-coming-soon",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/sahand12/freshbashi-coming-soon.git",
+    "author": "Sahand Shokouhi <sahand.shok@gmail.com>",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: https://registry.yarnpkg.com/array-flatten: ETIMEDOUT
+      at Timeout._onTimeout (/Users/sahand/.yarn/lib/yarn-cli.js:114906:19)
+      at ontimeout (timers.js:469:11)
+      at tryOnTimeout (timers.js:304:5)
+      at Timer.listOnTimeout (timers.js:264:5)
