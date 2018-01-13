@@ -93,7 +93,7 @@ body {
 }
 .vector {
   height: 232px;
-  margin: 40px auto -10px;
+  margin: 20px auto -10px;
   position: relative;
   width: 210px;
 }
@@ -309,6 +309,9 @@ footer .copyright {
 }
 
 @media only screen and (min-width: 480px) {
+  .vector {
+    margin-top: 40px;
+  }
   .watch {
     width: 432px;
     height: 100px;
